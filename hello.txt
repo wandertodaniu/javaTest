@@ -16,3 +16,4 @@ hello git,hello da pi gu
 hello git,hello da pi gu
 xiang yao ci,hei hei ,gan yu,mo na,shen he,liu yun,fulilian
 git init   初始化本地库
+git add 文件名     添加该文件到暂存区
